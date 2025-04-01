@@ -27,6 +27,7 @@ body {
     background-image: url(img/Backgroundbackground.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: right;
     align-items: center;
     text-align: center;
 }
